@@ -8,7 +8,8 @@
    ```bash
   
    npm install
-2. frontend installation 
+2. frontend installation
+   ```bash
    cd frontend
    npm install
 
